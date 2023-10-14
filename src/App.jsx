@@ -44,7 +44,7 @@ function App() {
     setRotas(filteredRota);
   };
   
-  const [ map, setMap] =useState([]);
+  
 
   
   
